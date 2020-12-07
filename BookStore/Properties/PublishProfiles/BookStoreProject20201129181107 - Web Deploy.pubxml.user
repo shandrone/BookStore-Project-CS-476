@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAozg6L8JMnU6ELdSb094KewAAAAACAAAAAAAQZgAAAAEAACAAAADDWlXpdEetqfQyLo1KfYeNh082FDEsdlYnUgMaBl6HDQAAAAAOgAAAAAIAACAAAADIQEsEBkyVn7OVTWCm/4svL/Q6RdMPY3qcD4TzwJQS6IAAAABUjg5kRlF6Cedas1UodSnHgAowt8vsR4YV20oTL/iR4V/GpSkJfRiEWnvUiJS/3CJL9cr0iTgHqvlljZQ9hd5hvBY131+ET9MsZf/CXQHU3UHjslNccomvfE1WSt8+7/kuBixzy2QvGhCZM9t4n14vWOieW0lYIrc4ZSY2O/iEDkAAAAChDY0mlDQIf3SckhNXC3QGr+bE/kHPUgddvgkYVYUBTZrwhsiN4vmf3rcb/OkV8JO22DPeGYAZWj4IvqZ6TWHJ</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:bookstoreprojectserver.database.windows.net,1433%3bInitial Catalog=BulkyBook_DeployTest%3bUser Id=adminuser%40bookstoreprojectserver%3bPassword=Admin123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

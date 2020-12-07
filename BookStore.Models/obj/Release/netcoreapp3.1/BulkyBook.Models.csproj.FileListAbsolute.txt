@@ -1,0 +1,9 @@
+C:\Users\shandrone\OneDrive\Desktop\soft dev\Second Version\BulkyBook\BulkyBook.Models\bin\Release\netcoreapp3.1\BulkyBook.Models.deps.json
+C:\Users\shandrone\OneDrive\Desktop\soft dev\Second Version\BulkyBook\BulkyBook.Models\bin\Release\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\shandrone\OneDrive\Desktop\soft dev\Second Version\BulkyBook\BulkyBook.Models\bin\Release\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\shandrone\OneDrive\Desktop\soft dev\Second Version\BulkyBook\BulkyBook.Models\obj\Release\netcoreapp3.1\BulkyBook.Models.csprojAssemblyReference.cache
+C:\Users\shandrone\OneDrive\Desktop\soft dev\Second Version\BulkyBook\BulkyBook.Models\obj\Release\netcoreapp3.1\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\shandrone\OneDrive\Desktop\soft dev\Second Version\BulkyBook\BulkyBook.Models\obj\Release\netcoreapp3.1\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\shandrone\OneDrive\Desktop\soft dev\Second Version\BulkyBook\BulkyBook.Models\obj\Release\netcoreapp3.1\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\shandrone\OneDrive\Desktop\soft dev\Second Version\BulkyBook\BulkyBook.Models\obj\Release\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\shandrone\OneDrive\Desktop\soft dev\Second Version\BulkyBook\BulkyBook.Models\obj\Release\netcoreapp3.1\BulkyBook.Models.pdb
